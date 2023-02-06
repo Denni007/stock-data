@@ -130,5 +130,8 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "prettier": "^2.5.1",
     "typescript": "^4.4.4"
-  }
+  },
+  "browser": {
+    "crypto": false
+}
 }
