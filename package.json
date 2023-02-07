@@ -133,8 +133,7 @@
     "prettier": "^2.5.1",
     "typescript": "^4.4.4"
   },
-  "browser": {
-    "crypto": false,
-    "stream": false
+  "overrides": {
+    "@svgr/webpack": "^6.5.0"
   }
 }
