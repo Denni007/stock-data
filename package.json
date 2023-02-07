@@ -134,6 +134,7 @@
     "typescript": "^4.4.4"
   },
   "browser": {
-    "crypto": false
+    "crypto": false,
+    "stream": false
   }
 }
